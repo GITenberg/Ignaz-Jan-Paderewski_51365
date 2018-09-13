@@ -1,0 +1,26 @@
+_repo: Ignaz-Jan-Paderewski_51365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baughan, Edward Algernon
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '46381'
+    url: http://www.gutenberg.org/2009/agents/46381
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51365'
+  lccn: 08035168
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Living masters of music
+subjects:
+- !lcsh 'Paderewski, Ignace Jan, 1860-1941'
+- !lcc 'ML'
+- GITenberg
+title: Ignaz Jan Paderewski
+url: http://www.gutenberg.org/ebooks/51365
